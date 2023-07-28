@@ -5,11 +5,12 @@ using namespace std;
 
 int main()
 {
-    int a;
+    int a = 10;
     //input variable
-    cin>>a;
-
+    //cin>>a;
+    cout<<"Hello World" << " sajskdn "<<a<<endl;
     //output variable
     cout<<a;
+    //prints 10
     return 0;
 }
